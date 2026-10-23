@@ -3,6 +3,7 @@
 [![ci](https://github.com/Artemon-line/ai-memory-hub/actions/workflows/pipeline.yml/badge.svg?branch=main)](https://github.com/Artemon-line/ai-memory-hub/actions/workflows/pipeline.yml)
 [![Python 3.14+](https://img.shields.io/badge/python-3.14%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FArtemon-line%2Fai-memory-hub.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FArtemon-line%2Fai-memory-hub?ref=badge_shield)
 
 Provider live checks:
 [![Qdrant](https://img.shields.io/github/actions/workflow/status/Artemon-line/ai-memory-hub/storage-providers.yml?branch=main&event=push&label=Qdrant&logo=qdrant)](https://github.com/Artemon-line/ai-memory-hub/actions/workflows/storage-providers.yml)
@@ -457,3 +458,6 @@ Andrii Hladenko.
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for
 details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FArtemon-line%2Fai-memory-hub.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FArtemon-line%2Fai-memory-hub?ref=badge_large)
